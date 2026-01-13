@@ -2,3 +2,4 @@
 Nom : Nonssan 
 Prenom : Hubinsasse
 Age : 
+Competences:
